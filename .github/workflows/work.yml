@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "Raphielscape"
+          find: "KenHV/KensurBot"
 
-          replace: "Team Repondeur"
+          replace: "Repondeur/Repondeur"
 
       - name: Create Pull Request
 
