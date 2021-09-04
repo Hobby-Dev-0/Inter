@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "KenHV/KensurBot"
+          find: "KenHV"
 
-          replace: "Repondeur/Repondeur"
+          replace: "Team Repondeur"
 
       - name: Create Pull Request
 
