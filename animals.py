@@ -1,7 +1,7 @@
 # Taken from https://github.com/AvinashReddy3108/PaperplaneRemix/blob/master/userbot/plugins/memes.py
 
 # TG-UserBot - A modular Telegram UserBot script for Python.
-# Copyright (C) 2019 Kandarp <https://github.com/kandnub>
+# Copyright (C) 2021-2022 Kandarp <https://github.com/kandnub>
 #
 # TG-UserBot is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
