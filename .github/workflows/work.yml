@@ -18,7 +18,7 @@ jobs:
 
         with:
 
-          find: "The Raphielscape Company LLC"
+          find: "Raphielscape"
 
           replace: "Team Repondeur"
 
