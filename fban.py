@@ -1,4 +1,4 @@
-# Copyright (C) 2020 KenHV
+# Copyright (C) 2020 Team Repondeur
 
 from sqlalchemy.exc import IntegrityError
 

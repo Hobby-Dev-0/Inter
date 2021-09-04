@@ -1,4 +1,4 @@
-# Ported from Userge and refactored by @KenHV
+# Ported from Userge and refactored by @Team Repondeur
 # Copyright (C) UsergeTeam 2020
 # Licensed under GPLv3
 

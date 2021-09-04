@@ -1,4 +1,4 @@
-# Copyright (C) 2021 KenHV
+# Copyright (C) 2021 Team Repondeur
 
 from requests import post
 from telethon.tl.types import MessageMediaWebPage

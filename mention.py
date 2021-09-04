@@ -1,4 +1,4 @@
-# Ported by @KenHV
+# Ported by @Team Repondeur
 # TG-UserBot - A modular Telegram UserBot script for Python.
 # Copyright (C) 2021-2022  Kandarp <https://github.com/kandnub>
 #
