@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "2019"
+          find: "The Raphielscape Company LLC"
 
-          replace: "2021-2022"
+          replace: "Team Repondeur"
 
       - name: Create Pull Request
 
