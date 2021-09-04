@@ -1,4 +1,4 @@
-# Copyright (C) 2021-2022 The Raphielscape Company LLC.
+# Copyright (C) 2021-2022 Team Repondeur.
 #
 # Thanks to @kandnub, for this awesome module !!
 #
